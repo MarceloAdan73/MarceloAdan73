@@ -37,10 +37,10 @@
 | Project | Live Demo | Stack | Status |
 |---------|-----------|-------|--------|
 | [Task Manager Pro](https://github.com/MarceloAdan73/task-manager-pro) | [🔗 Vercel](https://task-manager-pro.vercel.app) | Next.js + PostgreSQL + Prisma | ✅ PROD |
-| [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [📘 Demo](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | ✅ COMPLETE |
+| [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [📘 README](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | ✅ COMPLETE |
 | [pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI) | [🚀 Streamlit](https://pystreamflow-ai.streamlit.app) | Python + Pandas + HF | ✅ PROD |
-| [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | [📘 Demo](https://github.comMarceloAdan73/wsp-bot) | Baileys + SSE + SQLite | ✅ COMPLETE |
-| [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [📘 Demo](https://github.com/MarceloAdan73/CodeMp-AI) | Ollama + TypeScript | ✅ COMPLETE |
+| [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | [📘 README](https://github.com/MarceloAdan73/wsp-bot) | Baileys + SSE + SQLite | ✅ COMPLETE |
+| [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [🔗 Vercel](https://code-mp-ai.vercel.app) | Ollama + TypeScript | ✅ COMPLETE |
 | [Portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio) | [🔗 Vercel](https://marcelo-palma-portfolio.vercel.app) | Next.js + Tailwind | ✅ PROD |
 
 ---
