@@ -51,6 +51,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAdan73&layout=compact&theme=github_dark&hide_border=true)
 
 *🔄 Last updated: April 2026*  
-*📌 Open to Senior Full-Stack or AI Engineer roles*
+*📌 Full-Stack Developer*
 
 </div>
