@@ -39,10 +39,6 @@
 | [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [README](https://github.com/MarceloAdan73/CodeMp-AI) | Ollama + TypeScript | 🟢 COMPLETE |
 | [Portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio) | [Vercel](https://marcelo-palma-portfolio.vercel.app) | Next.js + Tailwind | 🟢 PROD |
 
-📫 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marceloadan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ---
 
