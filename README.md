@@ -1,8 +1,12 @@
 ### 👋 Hi, I'm Marcelo Adán
 
-**Full-Stack Developer** | 🤖 AI & WhatsApp Bots | 🐍 Python/Data | ⚡ Next.js + TypeScript
+**Full-Stack Developer** | 🤖 AI & WhatsApp Bots Specialist | 🐍 Python/Data | ⚡ Next.js + TypeScript
 
-> 🎯 *20 repos | 118+ tests | 3 production deploys | Open to opportunities*
+> 🎯 *20+ repos | 118+ tests passing | 3 production apps live | 📍 Open to work*
+
+📫 **Connect with me**
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelo024@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
 
 ---
 
@@ -30,24 +34,23 @@
 | 🚀 Production Deploys | 3 (Vercel, Render, Streamlit) |
 
 🔗 **Featured Projects**
-| Project | Demo | Stack | Status |
-|---------|------|-------|--------|
-| [Task Manager Pro](https://github.com/MarceloAdan73/task-manager-pro) | [Vercel](https://task-manager-pro.vercel.app) | Next.js + PostgreSQL + Prisma | 🟢 PROD |
-| [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [README](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | 🟢 COMPLETE |
-| [pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI) | [Streamlit](https://pystreamflow-ai.streamlit.app) | Python + Pandas + HF | 🟢 PROD |
-| [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | [README](https://github.com/MarceloAdan73/wsp-bot) | Baileys + SSE + SQLite | 🟢 COMPLETE |
-| [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [README](https://github.com/MarceloAdan73/CodeMp-AI) | Ollama + TypeScript | 🟢 COMPLETE |
-| [Portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio) | [Vercel](https://marcelo-palma-portfolio.vercel.app) | Next.js + Tailwind | 🟢 PROD |
-
+| Project | Live Demo | Stack | Status |
+|---------|-----------|-------|--------|
+| [Task Manager Pro](https://github.com/MarceloAdan73/task-manager-pro) | [🔗 Vercel](https://task-manager-pro.vercel.app) | Next.js + PostgreSQL + Prisma | ✅ PROD |
+| [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [📘 Demo](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | ✅ COMPLETE |
+| [pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI) | [🚀 Streamlit](https://pystreamflow-ai.streamlit.app) | Python + Pandas + HF | ✅ PROD |
+| [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | [📘 Demo](https://github.com/MarceloAdan73/wsp-bot) | Baileys + SSE + SQLite | ✅ COMPLETE |
+| [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [📘 Demo](https://github.com/MarceloAdan73/CodeMp-AI) | Ollama + TypeScript | ✅ COMPLETE |
+| [Portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio) | [🔗 Vercel](https://marcelo-palma-portfolio.vercel.app) | Next.js + Tailwind | ✅ PROD |
 
 ---
 
 <div align="center">
 
-*🔄 Last updated: April 2026*  
-*🎯 Senior Full-Stack | 🚀 Open to new challenges*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=github_dark&hide_border=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAdan73&layout=compact&theme=github_dark&hide_border=true)
+
+*🔄 Last updated: April 2026*  
+*📌 Open to Senior Full-Stack or AI Engineer roles*
 
 </div>
