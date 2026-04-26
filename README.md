@@ -1,16 +1,57 @@
-## Hi there 👋
+### 👋 Hi, I'm Marcelo Adán
 
-<!--
-**MarceloAdan73/MarceloAdan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** | 🤖 AI & WhatsApp Bots | 🐍 Python/Data | ⚡ Next.js + TypeScript
 
-Here are some ideas to get you started:
+> 🎯 *20 repos | 118+ tests | 3 production deploys | Open to opportunities*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Tech Stack**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+🤖 **Specializations**
+- 💬 WhatsApp Bots with Baileys + SSE + session management
+- 🧠 AI Integration: Gemini API, Ollama (qwen2.5-coder), HuggingFace
+- 📊 Python for Data: Streamlit, Pandas, Plotly, PWA
+- 🛍️ Conversational E-commerce & Commercial Chatbots
+
+📊 **Key Metrics**
+| Metric | Value |
+|--------|-------|
+| 📦 Repositories | 20+ |
+| ⭐ Flagship Projects | 7 production-ready |
+| ✅ Passing Tests | 118+ |
+| 🚀 Production Deploys | 3 (Vercel, Render, Streamlit) |
+
+🔗 **Featured Projects**
+| Project | Demo | Stack | Status |
+|---------|------|-------|--------|
+| [Task Manager Pro](https://github.com/MarceloAdan73/task-manager-pro) | [Vercel](https://task-manager-pro.vercel.app) | Next.js + PostgreSQL + Prisma | 🟢 PROD |
+| [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [README](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | 🟢 COMPLETE |
+| [pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI) | [Streamlit](https://pystreamflow-ai.streamlit.app) | Python + Pandas + HF | 🟢 PROD |
+| [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | [README](https://github.com/MarceloAdan73/wsp-bot) | Baileys + SSE + SQLite | 🟢 COMPLETE |
+| [CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI) | [README](https://github.com/MarceloAdan73/CodeMp-AI) | Ollama + TypeScript | 🟢 COMPLETE |
+| [Portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio) | [Vercel](https://marcelo-palma-portfolio.vercel.app) | Next.js + Tailwind | 🟢 PROD |
+
+📫 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marceloadan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+---
+
+<div align="center">
+
+*🔄 Last updated: April 2026*  
+*🎯 Senior Full-Stack | 🚀 Open to new challenges*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAdan73&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
