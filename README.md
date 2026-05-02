@@ -5,7 +5,6 @@
 > 🎯 *20+ repos | 118+ tests passing | 3 production apps live | 📍 Open to work*
 
 📫 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelo024@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
 
@@ -48,8 +47,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=github_dark&hide_border=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAdan73&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=default&hide_border=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAdan73&layout=compact&theme=default&hide_border=true)
 
 *🔄 Last updated: May 2026*  
 *📌 Junior Full-Stack Developer | Open to opportunities*
