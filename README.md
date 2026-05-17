@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Marcelo Adán
 
-**Junior Full-Stack Developer** | 🤖 AI & WhatsApp Bots Specialist | 🐍 Python/Data | ⚡ Next.js + TypeScript
+**Full-Stack Developer** | 🤖 AI & WhatsApp Bots Specialist | 🐍 Python/Data | ⚡ Next.js + TypeScript
 
 > 🎯 *20+ repos | 118+ tests passing | 3 production apps live | 📍 Open to work*
 
