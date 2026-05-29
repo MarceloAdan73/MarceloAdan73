@@ -2,11 +2,12 @@
 
 **Full-Stack Developer** | 🤖 AI & WhatsApp Bots Specialist | 🐍 Python/Data | ⚡ Next.js + TypeScript
 
-> 🎯 *20+ repos | 270+ tests passing | 4 production apps live | 📍 Open to work*
+> 🎯 *20+ repos | 270+ tests passing | 4 production apps live | 📍 Accepting new projects*
 
 📫 **Connect with me**
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=marcelo024@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
+[![My Agency](https://img.shields.io/badge/My%20Agency-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://nodoweb.digital)
 
 ---
 
@@ -27,6 +28,7 @@
 - 🧠 AI Integration: Gemini API, Ollama (qwen2.5-coder), HuggingFace
 - 📊 Python for Data: Streamlit, Pandas, Plotly, PWA
 - 🛍️ Conversational E-commerce & Commercial Chatbots
+- 🚀 NodoWeb | Building my first websites
 
 📊 **Key Metrics**
 | Metric | Value |
@@ -52,6 +54,6 @@
 <div align="center">
 
 *🔄 Last updated: May 2026*  
-*📌 Full-Stack Developer | Open to opportunities*
+*📌 Full-Stack Developer | Projects available*
 
 </div>
