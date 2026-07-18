@@ -35,7 +35,7 @@
 
 🤖 **Specializations**
 - 💬 WhatsApp Bots with Baileys + SSE + session management
-- 🧠 AI Integration: Gemini API, Ollama (qwen2.5-coder), HuggingFace
+- 🧠 AI Integration: API, Ollama, HuggingFace
 - 🔧 AI Agent Development: CLI tools, multi-provider integration, automated workflows
 - 📊 Python for Data: Streamlit, Pandas, Plotly, PWA
 - 🛍️ Conversational E-commerce & Commercial Chatbots
