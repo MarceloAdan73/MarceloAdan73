@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | 🤖 AI & WhatsApp Bots Specialist | 🐍 Python/Data | ⚡ Next.js + TypeScript
 
-> 🎯 *20+ repos | 270+ tests passing | 4 production apps live | 📍 Accepting new projects*
+> 🎯 *21+ repos | 866+ tests passing | 4 production apps live | 📍 Accepting new projects*
 
 📫 **Connect with me**
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=marcelo024@gmail.com)
@@ -36,6 +36,7 @@
 🤖 **Specializations**
 - 💬 WhatsApp Bots with Baileys + SSE + session management
 - 🧠 AI Integration: Gemini API, Ollama (qwen2.5-coder), HuggingFace
+- 🔧 AI Agent Development: CLI tools, multi-provider integration, automated workflows
 - 📊 Python for Data: Streamlit, Pandas, Plotly, PWA
 - 🛍️ Conversational E-commerce & Commercial Chatbots
 - 🚀 NodoWeb | Building my first websites
@@ -43,14 +44,15 @@
 📊 **Key Metrics**
 | Metric | Value |
 |--------|-------|
-| 📦 Repositories | 20+ |
-| ⭐ Flagship Projects | 8 production-ready |
-| ✅ Passing Tests | 270+ |
+| 📦 Repositories | 21+ |
+| ⭐ Flagship Projects | 9 production-ready |
+| ✅ Passing Tests | 866+ |
 | 🚀 Production Deploys | 4 (Vercel, Render, Streamlit) |
 
 🔗 **Featured Projects**
 | Project | Live Demo | Stack | Status |
 |---------|-----------|-------|--------|
+| [AI Agent Toolkit](https://github.com/MarceloAdan73/ai-agent-toolkit) | [📘 README](https://github.com/MarceloAdan73/ai-agent-toolkit) | 5 AI CLI Agents + TypeScript + Vitest + 5 Providers | ✅ COMPLETE |
 | [Task Manager Pro](https://github.com/MarceloAdan73/task-manager-pro) | [🔗 Vercel](https://task-manager-pro-psi.vercel.app) | Next.js + PostgreSQL + Prisma + WebSockets | ✅ PROD |
 | [web-vault](https://github.com/MarceloAdan73/web-vault) | [🔗 Vercel](https://web-vault-tawny.vercel.app) | Next.js + MongoDB + Mongoose | ✅ PROD |
 | [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | [📘 README](https://github.com/MarceloAdan73/botShop-AI) | Gemini + Redis + Vitest | ✅ COMPLETE |
@@ -63,7 +65,7 @@
 
 <div align="center">
 
-*🔄 Last updated: May 2026*  
+*🔄 Last updated: July 2026*  
 *📌 Full-Stack Developer | Projects available*
 
 </div>
