@@ -1,6 +1,6 @@
 ### Marcelo Adan
 
-**Full-Stack Developer & AI Engineer** | Building production apps with TypeScript, Python & Go
+**Full-Stack Developer** | TypeScript · Python · Go | AI Integration & Web Applications
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelo024@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marcelo-palma-portfolio.vercel.app)
@@ -11,7 +11,7 @@
 
 ### What I Do
 
-I architect and ship **production-grade full-stack applications** with a focus on **AI integration** and **developer tooling**. From CLI agent suites to real-time dashboards and WhatsApp commerce bots, I build systems that solve real problems.
+I build **full-stack applications** with a focus on **AI integration** and **developer tooling**. From CLI agent suites to real-time dashboards and WhatsApp commerce bots, I enjoy turning complex problems into clean, testable code.
 
 ---
 
