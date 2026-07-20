@@ -33,7 +33,7 @@ I build **full-stack applications** with a focus on **AI integration** and **dev
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [ai-agent-toolkit](https://github.com/MarceloAdan73/ai-agent-toolkit) | TypeScript, 5 AI CLI agents, 5 LLM providers, 596 tests | [![CI](https://github.com/MarceloAdan73/ai-agent-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/ai-agent-toolkit/actions) |
+| [ai-agent-toolkit](https://github.com/MarceloAdan73/ai-agent-toolkit) | TypeScript, 5 AI CLI agents, 5 LLM providers, 596 tests | [![npm](https://img.shields.io/npm/v/@aiagentkit/ai-agent-toolkit?style=flat-square&label=npm&logo=npm&logoColor=white)](https://www.npmjs.com/package/@aiagentkit/ai-agent-toolkit) [![CI](https://github.com/MarceloAdan73/ai-agent-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/ai-agent-toolkit/actions) |
 | [task-manager-pro](https://github.com/MarceloAdan73/task-manager-pro) | Next.js 16, Express, PostgreSQL, Prisma, Docker | [![CI](https://github.com/MarceloAdan73/task-manager-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/task-manager-pro/actions) |
 | [blackbox-monitor](https://github.com/MarceloAdan73/blackbox-monitor) | Go, terminal UI, web dashboard, Telegram alerts | [![CI](https://github.com/MarceloAdan73/blackbox-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/blackbox-monitor/actions) |
 | [pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI) | Python, Streamlit, Pandas, HuggingFace | [![Streamlit](https://img.shields.io/badge/Live-Streamlit-FF4B4B?style=flat)](https://pystreamflow-ai.streamlit.app) |
@@ -41,6 +41,19 @@ I build **full-stack applications** with a focus on **AI integration** and **dev
 | [Modern-Blog](https://github.com/MarceloAdan73/Modern-Blog) | FastAPI, Vue.js, PostgreSQL, Tailwind | Complete |
 | [botShop-AI](https://github.com/MarceloAdan73/botShop-AI) | Gemini, Redis, SQLite, Vitest | Complete |
 | [wsp-bot](https://github.com/MarceloAdan73/wsp-bot) | Node.js, Baileys, SSE, SQLite | Complete |
+
+---
+
+### npm Packages
+
+| Package | Description | Install |
+|---------|-------------|---------|
+| [`@aiagentkit/ai-agent-toolkit`](https://npm.im/@aiagentkit/ai-agent-toolkit) | CLI unificada - 5 agentes de IA | `npm i -g @aiagentkit/ai-agent-toolkit` |
+| [`@aiagentkit/agent-doc-generator`](https://npm.im/@aiagentkit/agent-doc-generator) | Generador de documentacion con IA | `npx @aiagentkit/agent-doc-generator --path ./src` |
+| [`@aiagentkit/agent-test-generator`](https://npm.im/@aiagentkit/agent-test-generator) | Generador de tests unitarios con IA | `npx @aiagentkit/agent-test-generator --path ./src` |
+| [`@aiagentkit/agent-code-review`](https://npm.im/@aiagentkit/agent-code-review) | Revision de codigo con IA | `npx @aiagentkit/agent-code-review --path ./src` |
+| [`@aiagentkit/agent-refactor`](https://npm.im/@aiagentkit/agent-refactor) | Refactorizacion con IA | `npx @aiagentkit/agent-refactor --path ./src` |
+| [`@aiagentkit/agent-security-audit`](https://npm.im/@aiagentkit/agent-security-audit) | Auditoria de seguridad OWASP | `npx @aiagentkit/agent-security-audit --path ./src` |
 
 ---
 
