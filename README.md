@@ -44,12 +44,6 @@ I architect and ship **production-grade full-stack applications** with a focus o
 
 ---
 
-### GitHub Stats
-
-![MarceloAdan73's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloAdan73&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ### Currently
 
 - Running [NodoWeb](https://nodoweb.digital) - freelance web agency in Bahia Blanca, Argentina
