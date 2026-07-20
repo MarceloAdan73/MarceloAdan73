@@ -72,22 +72,22 @@ Node.js, Baileys, SSE, SQLite
 
 ### npm Packages
 
-**[@aiagentkit/ai-agent-toolkit](https://npm.im/@aiagentkit/ai-agent-toolkit)** - CLI unificada - 5 agentes de IA
+**[@aiagentkit/ai-agent-toolkit](https://npm.im/@aiagentkit/ai-agent-toolkit)** - Unified CLI - 5 AI agents
 `npm i -g @aiagentkit/ai-agent-toolkit`
 
-**[@aiagentkit/agent-doc-generator](https://npm.im/@aiagentkit/agent-doc-generator)** - Generador de documentacion con IA
+**[@aiagentkit/agent-doc-generator](https://npm.im/@aiagentkit/agent-doc-generator)** - AI-powered documentation generator
 `npx @aiagentkit/agent-doc-generator --path ./src`
 
-**[@aiagentkit/agent-test-generator](https://npm.im/@aiagentkit/agent-test-generator)** - Generador de tests unitarios con IA
+**[@aiagentkit/agent-test-generator](https://npm.im/@aiagentkit/agent-test-generator)** - AI-powered unit test generator
 `npx @aiagentkit/agent-test-generator --path ./src`
 
-**[@aiagentkit/agent-code-review](https://npm.im/@aiagentkit/agent-code-review)** - Revision de codigo con IA
+**[@aiagentkit/agent-code-review](https://npm.im/@aiagentkit/agent-code-review)** - AI-powered code review
 `npx @aiagentkit/agent-code-review --path ./src`
 
-**[@aiagentkit/agent-refactor](https://npm.im/@aiagentkit/agent-refactor)** - Refactorizacion con IA
+**[@aiagentkit/agent-refactor](https://npm.im/@aiagentkit/agent-refactor)** - AI-powered refactoring
 `npx @aiagentkit/agent-refactor --path ./src`
 
-**[@aiagentkit/agent-security-audit](https://npm.im/@aiagentkit/agent-security-audit)** - Auditoria de seguridad OWASP
+**[@aiagentkit/agent-security-audit](https://npm.im/@aiagentkit/agent-security-audit)** - OWASP security auditing
 `npx @aiagentkit/agent-security-audit --path ./src`
 
 ---
