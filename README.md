@@ -94,41 +94,12 @@ Node.js, Baileys, SSE, SQLite
 
 ### npm Packages
 
-**[@aiagentkit/ai-agent-toolkit](https://npm.im/@aiagentkit/ai-agent-toolkit)**
-Unified CLI - 5 AI agents
+[`@aiagentkit/ai-agent-toolkit`](https://npm.im/@aiagentkit/ai-agent-toolkit) - Unified CLI with 5 AI agents
 ```
 npm i -g @aiagentkit/ai-agent-toolkit
 ```
 
-**[@aiagentkit/agent-doc-generator](https://npm.im/@aiagentkit/agent-doc-generator)**
-AI-powered documentation generator
-```
-npx @aiagentkit/agent-doc-generator --path ./src
-```
-
-**[@aiagentkit/agent-test-generator](https://npm.im/@aiagentkit/agent-test-generator)**
-AI-powered unit test generator
-```
-npx @aiagentkit/agent-test-generator --path ./src
-```
-
-**[@aiagentkit/agent-code-review](https://npm.im/@aiagentkit/agent-code-review)**
-AI-powered code review
-```
-npx @aiagentkit/agent-code-review --path ./src
-```
-
-**[@aiagentkit/agent-refactor](https://npm.im/@aiagentkit/agent-refactor)**
-AI-powered refactoring
-```
-npx @aiagentkit/agent-refactor --path ./src
-```
-
-**[@aiagentkit/agent-security-audit](https://npm.im/@aiagentkit/agent-security-audit)**
-OWASP security auditing
-```
-npx @aiagentkit/agent-security-audit --path ./src
-```
+Also: [`agent-doc-generator`](https://npm.im/@aiagentkit/agent-doc-generator) · [`agent-test-generator`](https://npm.im/@aiagentkit/agent-test-generator) · [`agent-code-review`](https://npm.im/@aiagentkit/agent-code-review) · [`agent-refactor`](https://npm.im/@aiagentkit/agent-refactor) · [`agent-security-audit`](https://npm.im/@aiagentkit/agent-security-audit)
 
 ---
 
