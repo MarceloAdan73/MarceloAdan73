@@ -86,6 +86,10 @@ FastAPI, Vue.js, PostgreSQL, Tailwind
 Gemini, Redis, SQLite, Vitest
 `Complete`
 
+**[CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI)**
+Next.js, multi-provider AI code analysis & auto-fix, Ollama
+[![CI](https://github.com/MarceloAdan73/CodeMp-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/CodeMp-AI/actions)
+
 **[wsp-bot](https://github.com/MarceloAdan73/wsp-bot)**
 Node.js, Baileys, SSE, SQLite
 `Complete`
