@@ -94,6 +94,15 @@ Node.js, Baileys, SSE, SQLite
 
 ---
 
+### Open Source Contributions
+
+| PR | Repo | Status |
+|----|------|--------|
+| [#5672](https://github.com/Agenta-AI/agenta/pull/5672) | Agenta-AI/agenta | ✅ Merged in release/v0.108.0 |
+| [#5676](https://github.com/Agenta-AI/agenta/pull/5676) | Agenta-AI/agenta | ✅ Merged — added as contributor |
+
+---
+
 ### npm Packages
 
 [`@aiagentkit/ai-agent-toolkit`](https://npm.im/@aiagentkit/ai-agent-toolkit) - Unified CLI with 5 AI agents
