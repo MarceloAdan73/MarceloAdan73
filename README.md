@@ -68,10 +68,6 @@ Next.js 16, Express, PostgreSQL, Prisma, Docker
 Go, terminal UI, web dashboard, Telegram alerts
 [![CI](https://github.com/MarceloAdan73/blackbox-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/blackbox-monitor/actions)
 
-**[pystreamflow-AI](https://github.com/MarceloAdan73/pystreamflow-AI)**
-Python, Streamlit, Pandas, HuggingFace
-[![Streamlit](https://img.shields.io/badge/Live-Streamlit-FF4B4B?style=flat)](https://pystreamflow-ai.streamlit.app)
-
 **[marcelo-palma-portfolio](https://github.com/MarceloAdan73/marcelo-palma-portfolio)**
 Next.js, TypeScript, Tailwind, Framer Motion
 [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=flat)](https://marcelo-palma-portfolio.vercel.app)
