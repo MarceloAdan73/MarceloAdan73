@@ -57,8 +57,18 @@ I build **full-stack applications** with a focus on **AI integration** and **dev
 ### Featured Projects
 
 **[ai-agent-toolkit](https://github.com/MarceloAdan73/ai-agent-toolkit)**
-TypeScript, 5 AI CLI agents, 5 LLM providers, 596 tests
+TypeScript, 5 AI CLI agents, 5 LLM providers, 626 tests
 [![CI](https://github.com/MarceloAdan73/ai-agent-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/ai-agent-toolkit/actions)
+
+**[pyfinflow-AI](https://github.com/MarceloAdan73/pyfinflow-AI)**
+FastAPI, Next.js 16, PostgreSQL, AI RAG (Ollama / HuggingFace / Gemini), 224 tests
+[![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat)](https://pyfinflow-ai.vercel.app)
+[![CI](https://github.com/MarceloAdan73/pyfinflow-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/pyfinflow-AI/actions)
+
+**[Django-Library](https://github.com/MarceloAdan73/Django-Library)**
+Django 5.2, Tailwind, PostgreSQL, search + reviews + pagination
+[![Live](https://img.shields.io/badge/Live-Render-46E3B7?style=flat)](https://biblioteca-django-5dbk.onrender.com)
+[![CI](https://github.com/MarceloAdan73/Django-Library/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/Django-Library/actions)
 
 **[task-manager-pro](https://github.com/MarceloAdan73/task-manager-pro)**
 Next.js 16, Express, PostgreSQL, Prisma, Docker
@@ -73,7 +83,7 @@ Next.js, TypeScript, Tailwind, Framer Motion
 [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=flat)](https://marcelo-palma-portfolio.vercel.app)
 
 **[Modern-Blog](https://github.com/MarceloAdan73/Modern-Blog)**
-FastAPI, Vue.js, PostgreSQL, Tailwind
+FastAPI, GraphQL, PostgreSQL, Tailwind
 `Complete`
 
 **[botShop-AI](https://github.com/MarceloAdan73/botShop-AI)**
@@ -83,6 +93,10 @@ Gemini, Redis, SQLite, Vitest
 **[CodeMp-AI](https://github.com/MarceloAdan73/CodeMp-AI)**
 Next.js, multi-provider AI code analysis & auto-fix, Ollama
 [![CI](https://github.com/MarceloAdan73/CodeMp-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/CodeMp-AI/actions)
+
+**[Angular-Music-Player](https://github.com/MarceloAdan73/Angular-Music-Player)**
+Angular 21, drag & drop MP3 with ID3 artwork, RxJS, 46 tests
+[![CI](https://github.com/MarceloAdan73/Angular-Music-Player/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/Angular-Music-Player/actions)
 
 **[wsp-bot](https://github.com/MarceloAdan73/wsp-bot)**
 Node.js, Baileys, SSE, SQLite
@@ -119,5 +133,5 @@ Also: [`agent-doc-generator`](https://npm.im/@aiagentkit/agent-doc-generator) ·
 ---
 
 <div align="center">
-<i>Last updated: July 2026</i>
+<i>Last updated: August 2026</i>
 </div>
