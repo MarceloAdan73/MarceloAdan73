@@ -1,3 +1,15 @@
+<div align="center">
+
+# Marcelo Adan Palma
+
+**Full-Stack Developer — AI Integration & Developer Tooling**
+
+📍 Bahía Blanca, Argentina · Building at [NodoWeb](https://nodoweb.digital)
+
+</div>
+
+---
+
 ### Links
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelomp024@gmail.com)
@@ -9,7 +21,7 @@
 
 ### What I Do
 
-I build **full-stack applications** with a focus on **AI integration** and **developer tooling**. From CLI agent suites to real-time dashboards and WhatsApp commerce bots, I enjoy turning complex problems into clean, testable code.
+I build **full-stack applications** with a focus on **AI integration** and **developer tooling**. From CLI agent suites and local-first AI apps to real-time dashboards and WhatsApp commerce bots, I enjoy turning complex problems into clean, testable code.
 
 ---
 
@@ -55,6 +67,10 @@ I build **full-stack applications** with a focus on **AI integration** and **dev
 ---
 
 ### Featured Projects
+
+**[DreamScape](https://github.com/MarceloAdan73/DreamScape)**
+FastAPI, React 19, Ollama (local AI), ChromaDB, Three.js — private AI dream journal, 46 tests
+[![CI](https://github.com/MarceloAdan73/DreamScape/actions/workflows/ci.yml/badge.svg)](https://github.com/MarceloAdan73/DreamScape/actions)
 
 **[ai-agent-toolkit](https://github.com/MarceloAdan73/ai-agent-toolkit)**
 TypeScript, 5 AI CLI agents, 5 LLM providers, 626 tests
@@ -111,6 +127,7 @@ Node.js, Baileys, SSE, SQLite
 | [#5672](https://github.com/Agenta-AI/agenta/pull/5672) | Agenta-AI/agenta | ✅ Merged in release/v0.108.0 |
 | [#5676](https://github.com/Agenta-AI/agenta/pull/5676) | Agenta-AI/agenta | ✅ Merged — added as contributor |
 | [#1824](https://github.com/corsairdev/corsair/pull/1824) | corsairdev/corsair | ✅ Merged — validate `--port` in `ui` command |
+| [#7122](https://github.com/Agenta-AI/agenta/pull/7122) | Agenta-AI/agenta | 🔄 In review — document gateway caveats behind retry rule |
 
 ---
 
@@ -128,7 +145,7 @@ Also: [`agent-doc-generator`](https://npm.im/@aiagentkit/agent-doc-generator) ·
 ### Currently
 
 - Running [NodoWeb](https://nodoweb.digital) - freelance web agency in Bahia Blanca, Argentina
-- Building AI-powered automation tools and agent-based architectures
+- Building local-first AI tools — latest: [DreamScape](https://github.com/MarceloAdan73/DreamScape), a private AI dream journal running on Ollama
 - Open to freelance, contract, or full-time roles in full-stack / AI engineering
 
 ---
