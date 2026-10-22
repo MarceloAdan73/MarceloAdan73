@@ -127,7 +127,6 @@ Node.js, Baileys, SSE, SQLite
 | [#5672](https://github.com/Agenta-AI/agenta/pull/5672) | Agenta-AI/agenta | ✅ Merged in release/v0.108.0 |
 | [#5676](https://github.com/Agenta-AI/agenta/pull/5676) | Agenta-AI/agenta | ✅ Merged — added as contributor |
 | [#1824](https://github.com/corsairdev/corsair/pull/1824) | corsairdev/corsair | ✅ Merged — validate `--port` in `ui` command |
-| [#7122](https://github.com/Agenta-AI/agenta/pull/7122) | Agenta-AI/agenta | 🔄 In review — document gateway caveats behind retry rule |
 
 ---
 
