@@ -2,7 +2,7 @@
 
 # Marcelo Adan Palma
 
-**Full-Stack Developer — AI Integration & Developer Tooling**
+**Dev — AI Integration & Developer Tooling**
 
 📍 Bahía Blanca, Argentina · Building at [NodoWeb](https://nodoweb.digital)
 
